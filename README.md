@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Guilherme-h-tavares
 - 👀 I’m interested in learn and improve my skills and start my carreer on the programation
-- 🌱 I’m currently learning .NET
+- 🌱 I’m currently learning HTML5, CSS3, Javascript, C#
 - 💞️ I’m looking to collaborate on share my knowledge and learn a lot of developing
 - 📫 How to reach me guilhermetavares3001@hotmail.com, +55 (31) 98985-7917 or in my Linkedin https://www.linkedin.com/in/guilherme-tavares-8b4a43149/ 
 
